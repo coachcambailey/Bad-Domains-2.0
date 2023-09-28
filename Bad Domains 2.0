@@ -39,11 +39,12 @@
  *  step 4. paste the new URL just below in variable BADSTRINGS_MCC_SPREADSHEET
  */
 var BADSTRINGS_MCC_SPREADSHEET =
-  "https://docs.google.com/spreadsheets/d/1GQCrknwrAMndO8s5CdXlOtEBfMi83NO-27k-0RvKueA/";
+  "<Add Bad Strings MCC sheet URL here, leave the quotes>";
 
 
 /* step 5.  Create a copy of this sheet (this is the sheet created for each individual account)
  *          https://docs.google.com/spreadsheets/d/161nPkwcC2fe0hHEFh2a0yRzwOO7PK8Ey37zp5YIpx64/edit#gid=1810648742
+ *          If you prefer you can copy this one as it has more domain strings https://docs.google.com/spreadsheets/d/1MSMq9vC1rkErfOdNdMBpTnEplHEaJOKHRi2_wgngwHQ/edit#gid=1810648742
  *          Open it, go to "File" then "make a copy". Then copy the URL of YOUR "Account" sheet
  *          Also change the list of strings as required on the settings tab (you don’t have to use our list)
  *
@@ -51,7 +52,7 @@ var BADSTRINGS_MCC_SPREADSHEET =
  */
 
 var BADSTRINGS_SPREADSHEET =
-  "https://docs.google.com/spreadsheets/d/1TnP45vjBKJSVLiOSd8cFVkq1SIoKZGKDvY0418ASIsY/edit";
+  "<Add Bad Strings sheet URL here, leave the quotes>";
 
 /*
  *  step 7. Change email below (variable RECIPIENT_EMAILS) with the email address where you would like to get notifications
