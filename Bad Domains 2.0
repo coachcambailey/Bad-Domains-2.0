@@ -58,7 +58,7 @@ var BADSTRINGS_SPREADSHEET =
  *  step 7. Change email below (variable RECIPIENT_EMAILS) with the email address where you would like to get notifications
  */
 
-var RECIPIENT_EMAILS = ["cameron@internetmarketingcoach.com.au"];
+var RECIPIENT_EMAILS = ["name@example.com"];
 
 /*
  *  step 8. (optional) Change the time duration (variables TIME_DURATION ) if required.The default time duration is 60 days
